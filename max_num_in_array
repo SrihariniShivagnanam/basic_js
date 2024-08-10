@@ -1,0 +1,10 @@
+//max num of an array
+
+const array = [1, 2, 3, 4, 5]
+let maxNum=array[0]
+for(let i=o;i<array.maxNum;i++)
+{
+    if(array[i]>maxNum);
+    count+=array[i]
+}
+console.log(maxNum);
