@@ -1,0 +1,5 @@
+// reverse string
+
+const str = "Good Night";
+const reverseStr = str.split("").reverse().join("");
+console.log(reverseStr);
